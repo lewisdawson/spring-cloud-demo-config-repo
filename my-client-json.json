@@ -1,5 +1,3 @@
 {
-	"first": {
-		"message": "Hello World from JSON!"
-	}
+	"first.message": "Hello World from JSON!"
 }
